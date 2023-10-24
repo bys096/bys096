@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+
   ![Bys096's github stats](https://github-readme-stats.vercel.app/api?username=bys096&show_icons=true&theme=tokyonight)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bys096&layout=compact&theme=tokyonight)
-</div>
+
 
